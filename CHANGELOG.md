@@ -1,6 +1,10 @@
 # Change Log
 
-## [Version 0.4.1]
+## [Version 0.4.3]
+
+ - Bug fixes and updates
+
+ ## [Version 0.4.1]
 
  - Support for older VS Code versions added.
 

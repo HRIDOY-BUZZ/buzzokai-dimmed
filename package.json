@@ -1,9 +1,9 @@
 {
   "name": "buzzokai-dimmed",
   "displayName": "Buzzokai Dimmed",
-  "description": "A dimmer version of the good old Monokai",
+  "description": "A collection of dimmed and eye-comforting VS Code color themes",
   "publisher": "HRIDOY-BUZZ",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "icon": "logo.png",
   "license": "MIT",
   "engines": {
@@ -15,9 +15,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Buzzokai Dimmed",
+        "label": "Buzzokai Dimmed Mono",
         "uiTheme": "vs-dark",
-        "path": "./themes/buzzokai-dimmed-color-theme.json"
+        "path": "./themes/buzzokai-dimmed-mono-color-theme.json"
       }
     ]
   },
