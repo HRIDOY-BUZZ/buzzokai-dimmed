@@ -14,7 +14,7 @@
       {
         "label": "Buzzokai Dimmed",
         "uiTheme": "vs-dark",
-        "path": "./themes/Buzzokai Dimmed-color-theme.json"
+        "path": "./themes/buzzokai-dimmed-color-theme.json"
       }
     ]
   }
