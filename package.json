@@ -1,0 +1,21 @@
+{
+  "name": "buzzokai-dimmed",
+  "displayName": "Buzzokai Dimmed",
+  "description": "A dimmer version of the good old Monokai",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Buzzokai Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Buzzokai Dimmed-color-theme.json"
+      }
+    ]
+  }
+}
