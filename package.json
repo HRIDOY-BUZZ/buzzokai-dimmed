@@ -3,11 +3,11 @@
   "displayName": "Buzzokai Dimmed",
   "description": "A dimmer version of the good old Monokai",
   "publisher": "HRIDOY-BUZZ",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "icon": "logo.png",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"

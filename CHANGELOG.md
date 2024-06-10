@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "buzzokai-dimmed" extension will be documented in this file.
+## [Version 0.4.1]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+ - Support for older VS Code versions added.
 
-## [Unreleased]
+## Note:
 
-- Initial release
+If you notice any issue, please report to the [@issues](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/issues).
