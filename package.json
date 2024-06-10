@@ -3,6 +3,7 @@
   "displayName": "Buzzokai Dimmed",
   "description": "A dimmer version of the good old Monokai",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -17,5 +18,9 @@
         "path": "./themes/buzzokai-dimmed-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HRIDOY-BUZZ/buzzokai-dimmed.git"
   }
 }
