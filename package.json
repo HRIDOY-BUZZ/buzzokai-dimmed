@@ -18,10 +18,15 @@
         "label": "Buzzokai Dimmed Mono",
         "uiTheme": "vs-dark",
         "path": "./themes/buzzokai-dimmed-mono-color-theme.json"
+      },
+      {
+        "label": "Buzzokai Dimmed Reversed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/buzzokai-dimmed-reversed-color-theme.json"
       }
     ]
   },
-  "keywords": ["monokai", "dimmed", "dark theme", "eye comfort", "color theme"],
+  "keywords": ["buzzokai", "monokai", "dimmed", "dark theme", "eye comfort", "color theme"],
   "repository": {
     "type": "git",
     "url": "https://github.com/HRIDOY-BUZZ/buzzokai-dimmed.git"
