@@ -2,7 +2,9 @@
   "name": "buzzokai-dimmed",
   "displayName": "Buzzokai Dimmed",
   "description": "A dimmer version of the good old Monokai",
-  "version": "0.0.1",
+  "publisher": "HRIDOY-BUZZ",
+  "version": "0.3.0",
+  "icon": "logo.png",
   "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
@@ -19,8 +21,17 @@
       }
     ]
   },
+  "keywords": ["monokai", "dimmed", "dark theme", "eye comfort", "color theme"],
   "repository": {
     "type": "git",
     "url": "https://github.com/HRIDOY-BUZZ/buzzokai-dimmed.git"
+  },
+  "homepage": "https://github.com/HRIDOY-BUZZ/buzzokai-dimmed#readme",
+  "bugs": {
+    "url": "https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/issues"
+  },
+  "galleryBanner": {
+    "color": "#1E1E1E",
+    "theme": "dark"
   }
 }
