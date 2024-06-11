@@ -1,14 +1,18 @@
 # Change Log
 
+## [Version 0.5.8]
+
+ - Bug fixes and minor updates
+
 ## [Version 0.5.1]
 
- - New theme added: Buzzokai Dimmed Reversed
- - New theme added: Buzzokai Dimmed Github
+ - New theme added: Buzzokai Reversed Dimmed
+ - New theme added: Buzzokai Github Dimmed
  - Bug Fixes
 
 ## [Version 0.4.3]
 
- - Bug fixes and updates
+ - Bug fixes and minor updates
 
  ## [Version 0.4.1]
 

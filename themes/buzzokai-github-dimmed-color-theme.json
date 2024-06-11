@@ -1,5 +1,5 @@
 {
-	"name": "Buzzokai Dimmed",
+	"name": "Buzzokai Github Dimmed",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -92,12 +92,16 @@
 			}
 		},
 		{
-			"scope": [
-				"storage",
-				"storage.type"
-			],
+			"scope": "storage",
 			"settings": {
 				"foreground": "#FF7B72"
+			}
+		},
+		{
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#FF7B72",
+				"fontStyle": "italic"
 			}
 		},
 		{

@@ -1,5 +1,5 @@
 {
-	"name": "Buzzokai Dimmed",
+	"name": "Buzzokai Reversed Dimmed",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -231,7 +231,8 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569CD6",
+				"fontStyle": "italic"
 			}
 		},
 		{
