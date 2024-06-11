@@ -1,5 +1,10 @@
 # Change Log
 
+## [Version 0.6.3]
+
+ - New theme added: Buzzokai Material Dimmed
+ - Minor updates to the design
+
 ## [Version 0.5.8]
 
  - Bug fixes and minor updates
