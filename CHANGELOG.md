@@ -1,5 +1,9 @@
 # Change Log
 
+## [Version 0.6.8]
+
+ - Buzzokai Github theme updated
+
 ## [Version 0.6.3]
 
  - New theme added: Buzzokai Material Dimmed
