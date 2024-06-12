@@ -4,13 +4,13 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"enumMember": {
-			"foreground": "#fd971f"
+			"foreground": "#FD971FCF"
 		},
 		"variable.constant": {
-			"foreground": "#ae81ff"
+			"foreground": "#AE81FFCF"
 		},
 		"variable.defaultLibrary": {
-			"foreground": "#66d9ef"
+			"foreground": "#66D9EFCF"
 		}
 	},
 	"tokenColors": [
@@ -22,7 +22,7 @@
 				"variable.legacy.builtin.python"
 			],
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#F8F8F2CF"
 			}
 		},
 		{
@@ -43,7 +43,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#e6db74bf"
 			}
 		},
 		{
@@ -52,7 +52,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#F92672CF"
 			}
 		},
 		{
@@ -60,114 +60,114 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#F8F8F2CF"
 			}
 		},
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#AE81FFCF"
 			}
 		},
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#AE81FFCF"
 			}
 		},
 		{
 			"scope": "constant.character, constant.other",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#AE81FFCF"
 			}
 		},
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#F8F8F2",
+				"foreground": "#F8F8F2CF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#F92672CF"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#F92672",
+				"foreground": "#F92672CF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#66D9EF",
+				"foreground": "#66D9EFCF",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
 			"settings": {
-				"foreground": "#A6E22E",
+				"foreground": "#A6E22EBF",
 				"fontStyle": "underline"
 			}
 		},
 		{
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#A6E22E",
+				"foreground": "#A6E22EBF",
 				"fontStyle": "italic underline"
 			}
 		},
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#A6E22E",
+				"foreground": "#A6E22EBF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#FD971F",
+				"foreground": "#FD971FCF",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#F92672",
+				"foreground": "#F92672CF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#A6E22E",
+				"foreground": "#A6E22EBF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#66D9EF",
+				"foreground": "#66D9EFCF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#66D9EF",
+				"foreground": "#66D9EFCF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "support.type, support.class",
 			"settings": {
-				"foreground": "#66D9EF",
+				"foreground": "#66D9EFCF",
 				"fontStyle": "italic"
 			}
 		},
@@ -180,14 +180,14 @@
 		{
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#F44747",
+				"foreground": "#F44747CF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#F44747"
+				"foreground": "#F44747CF"
 			}
 		},
 		{
@@ -205,19 +205,19 @@
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#F92672CF"
 			}
 		},
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#A6E22E"
+				"foreground": "#A6E22EBF"
 			}
 		},
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#e6db74bf"
 			}
 		},
 		{
@@ -229,44 +229,44 @@
 		{
 			"scope": "entity.name.filename.find-in-files",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#e6db74bf"
 			}
 		},
 		{
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#F92672CF"
 			}
 		},
 		{
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#e6db74bf"
 			}
 		},
 		{
 			"scope": "markup.bold, markup.italic",
 			"settings": {
-				"foreground": "#66D9EF"
+				"foreground": "#66D9EFCF"
 			}
 		},
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#FD971F",
+				"foreground": "#FD971FCF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#A6E22E"
+				"foreground": "#A6E22EBF"
 			}
 		},
 		{
 			"scope": "markup.heading.setext",
 			"settings": {
-				"foreground": "#A6E22E",
+				"foreground": "#A6E22EBF",
 				"fontStyle": "bold"
 			}
 		},
@@ -292,13 +292,13 @@
 		{
 			"scope": "string.other.link.title.markdown,string.other.link.description.markdown",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#AE81FFCF"
 			}
 		},
 		{
 			"scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#e6db74bf"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 		{
 			"scope": "markup.list.unnumbered.markdown, markup.list.numbered.markdown",
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#F8F8F2CF"
 			}
 		},
 		{
@@ -324,7 +324,7 @@
 				"punctuation.definition.list.begin.markdown"
 			],
 			"settings": {
-				"foreground": "#A6E22E"
+				"foreground": "#A6E22EBF"
 			}
 		},
 		{
@@ -342,7 +342,7 @@
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#F44747"
+				"foreground": "#F44747CF"
 			}
 		},
 		{
@@ -354,7 +354,7 @@
 		{
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#FD971F"
+				"foreground": "#FD971FCF"
 			}
 		}
 	],

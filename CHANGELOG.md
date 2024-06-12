@@ -1,5 +1,9 @@
 # Change Log
 
+## [Version 0.7.0]
+
+ - Dimmed all the syntax colors to make it more  eye-comforting
+
 ## [Version 0.6.8]
 
  - Buzzokai Github theme updated
