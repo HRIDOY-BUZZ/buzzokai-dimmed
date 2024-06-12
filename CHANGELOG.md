@@ -2,7 +2,7 @@
 
 ## [Version 0.7.0]
 
- - Dimmed all the syntax colors to make it more  eye-comforting
+ - Dimmed all the syntax colors to make them more  eye-comforting
 
 ## [Version 0.6.8]
 
