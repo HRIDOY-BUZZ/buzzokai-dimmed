@@ -1,5 +1,9 @@
 # Change Log
 
+## [Version 0.7.2]
+
+ - Support for older VS Code versions added.
+
 ## [Version 0.7.0]
 
  - Dimmed all the syntax colors to make them more  eye-comforting
