@@ -3,8 +3,8 @@
   "displayName": "Buzzokai Dimmed",
   "description": "A collection of dimmed and eye-comforting VS Code color themes",
   "publisher": "HRIDOY-BUZZ",
-  "version": "0.7.2",
-  "icon": "logo.png",
+  "version": "0.8.0",
+  "icon": "logo128.jpg",
   "license": "MIT",
   "engines": {
     "vscode": "^1.69.0"

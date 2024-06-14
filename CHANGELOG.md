@@ -1,5 +1,10 @@
 # Change Log
 
+## [Version 0.8.0]
+
+ - Optimized colors for better Eye comfort
+ - Updated logo
+
 ## [Version 0.7.2]
 
  - Support for older VS Code versions added.
