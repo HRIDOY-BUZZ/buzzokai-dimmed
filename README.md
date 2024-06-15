@@ -9,6 +9,14 @@
 - **Wide Language Support**: Whether you're writing JavaScript, Python, or any other language, Buzzokai Dimmed has got you covered.
 - **Customizable**: Fork and tweak it to your liking. Contributions are welcome!
 
+## Screenshots
+
+
+![Buzzokai Mono Dimmed](screenshots/1.mono.png)
+![Buzzokai Reversed Dimmed](screenshots/2.reversed.png)
+![Buzzokai GitHub Dimmed](screenshots/3.github.png)
+![Buzzokai Material Dimmed](screenshots/4.material.png)
+
 ## Installation
 
 1. Open your code editor's extension marketplace.
