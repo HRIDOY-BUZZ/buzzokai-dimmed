@@ -11,10 +11,16 @@
 
 ## Screenshots
 
-
+**Buzzokai Mono Dimmed**
 ![Buzzokai Mono Dimmed](screenshots/1.mono.png)
+
+**Buzzokai Reversed Dimmed**
 ![Buzzokai Reversed Dimmed](screenshots/2.reversed.png)
+
+**Buzzokai GitHub Dimmed**
 ![Buzzokai GitHub Dimmed](screenshots/3.github.png)
+
+**Buzzokai Material Dimmed**
 ![Buzzokai Material Dimmed](screenshots/4.material.png)
 
 ## Installation
