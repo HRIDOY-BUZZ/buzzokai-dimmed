@@ -8,7 +8,7 @@
 
 - **Dimmed color Palettes**: Enjoy the most popular color palettes with a darker twist for a more comfortable coding experience.
 - **Syntax Highlighting**: Carefully selected syntax highlighting that stands out on the dimmed background.
-- **Wide Language Support**: Whether you're writing JavaScript, Python, or any other language, Buzzokai Dimmed has got you covered.
+- **Wide Language Support**: Whether you're writing JavaScript, Python, PHP, C++ or any other language, Buzzokai Dimmed has got you covered.
 - **Customizable**: Fork and tweak it to your liking. Contributions are welcome!
 
 ## Installation
@@ -39,6 +39,8 @@ If you find this extension helpful, please consider leaving a review in the [Vis
 
 If you'd like to contribute to the development of Buzzokai Dimmed, please fork the repository and submit a pull request with your changes.
 
+[@Repository](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed)
+
 ## License
 
 This theme is released under the MIT License. See LICENSE for details.
@@ -65,6 +67,7 @@ Enjoy coding with a theme that's easy on the eyes - **Buzzokai Dimmed**.
 ![Buzzokai Reversed Dimmed](screenshots/2.reversed.png)
 
 ## Buzzokai GitHub Dimmed
+
 ![Buzzokai GitHub Dimmed](screenshots/3.github.png)
 
 ## Buzzokai Material Dimmed
