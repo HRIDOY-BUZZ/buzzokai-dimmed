@@ -19,16 +19,18 @@
 ## Feedback
 
 We value your feedback and suggestions to improve this extension. For any issues or suggestions or other feedback, please visit my github issues and discussion page.
+
 [@Issues](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/issues)
+
 [@Discussions](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/discussions)
 
 ## Review and Ratings
 
-If you find this extension helpful, please consider leaving a review in the [@Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed). Your reviews help us reach more users and improve the extension.
+If you find this extension helpful, please consider leaving a review in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed). Your reviews help us reach more users and improve the extension.
 
 ### How to Leave a Review
 
-1. **Visit the Extension Page:** Go to the [@VS Code Marketplace page](https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed) for this extension.
+1. **Visit the Extension Page:** Go to the [VS Code Marketplace page](https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed) for this extension.
 2. **Sign In:** Make sure you are signed in. You can use your microsoft account to sign in.
 3. **Rate and Review:** Click on the "Review" tab, rate the extension, and leave a review.
 
