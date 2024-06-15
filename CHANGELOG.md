@@ -1,5 +1,12 @@
 # Change Log
 
+## [Version 1.0.0]
+
+ - Optimized Syntax coloring
+ - Updated font styling
+ - Updated description
+ - Added Screenshots to the description
+
 ## [Version 0.8.0]
 
  - Optimized colors for better Eye comfort
