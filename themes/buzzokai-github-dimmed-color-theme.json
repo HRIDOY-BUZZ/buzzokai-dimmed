@@ -21,7 +21,8 @@
 				"string.comment"
 			],
 			"settings": {
-				"foreground": "#88846F"
+				"foreground": "#88846F",
+				"fontStyle": "italic"
 			}
 		},
 		{
