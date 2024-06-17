@@ -2,7 +2,7 @@
 
 **Buzzokai Dimmed** is a dark color theme for code editors that brings a dimmer but still vibrant versions of the classic and popular color themes. It's a fork of multiple themes, including the default "Monokai", "Material", "Github", "Dark Modern", etc. tailored to reduce eye strain during long coding sessions.
 
-### [Check the Screenshots below](#screenshots)
+### [↓↓ Check the Screenshots below ↓↓](#screenshots)
 
 ## Features
 
@@ -60,18 +60,18 @@ Enjoy coding with a theme that's easy on the eyes - **Buzzokai Dimmed**.
 
 ## Buzzokai Mono Dimmed
 
-![Buzzokai Mono Dimmed](screenshots/1.mono.png)
+![Buzzokai Mono Dimmed](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/blob/master/screenshots/1.mono.png)
 
 ## Buzzokai Reversed Dimmed
 
-![Buzzokai Reversed Dimmed](screenshots/2.reversed.png)
+![Buzzokai Reversed Dimmed](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/blob/master/screenshots/2.reversed.png)
 
 ## Buzzokai GitHub Dimmed
 
-![Buzzokai GitHub Dimmed](screenshots/3.github.png)
+![Buzzokai GitHub Dimmed](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/blob/master/screenshots/3.github.png)
 
 ## Buzzokai Material Dimmed
 
-![Buzzokai Material Dimmed](screenshots/4.material.png)
+![Buzzokai Material Dimmed](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/blob/master/screenshots/4.material.png)
 
 
