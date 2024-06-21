@@ -1,9 +1,9 @@
 {
   "name": "buzzokai-dimmed",
   "displayName": "Buzzokai Dimmed",
-  "description": "A collection of dimmed and eye-comforting VS Code color themes",
+  "description": "A collection of dimmed and eye-comforting VS Code color themes for better productivity",
   "publisher": "HRIDOY-BUZZ",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "icon": "logo.jpg",
   "license": "MIT",
   "engines": {
@@ -36,7 +36,11 @@
       }
     ]
   },
-  "keywords": ["buzzokai", "monokai", "material", "dimmed", "dark theme", "eye comfort", "theme", "color theme", "github"],
+  "keywords": [
+    "buzzokai", "monokai", "material", "dimmed", "dark theme", 
+    "eye comfort", "color", "theme", "color theme", "github", 
+    "dark", "dim", "mono", "hridoy", "buzz", "hridoy-buzz"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/HRIDOY-BUZZ/buzzokai-dimmed.git"
