@@ -1,5 +1,10 @@
 # Change Log
 
+## [Version 1.2.0]
+
+1. Added easi switching functionality by introducing the command `buzzokai`
+2. Updated description
+
 ## [Version 1.0.6]
 
 1. Added more keywords

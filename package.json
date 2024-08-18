@@ -1,7 +1,7 @@
 {
   "name": "buzzokai-dimmed",
   "displayName": "Buzzokai Dimmed",
-  "description": "A collection of dimmed and eye-comforting VS Code color themes for better productivity",
+  "description": "A collection of dimmed and eye-comforting VS Code color themes for better productivity. Easily switch between themes by typing 'buzzokai' in the Command Palette.",
   "publisher": "HRIDOY-BUZZ",
   "version": "1.0.6",
   "icon": "logo.jpg",
@@ -12,6 +12,7 @@
   "categories": [
     "Themes"
   ],
+  "main": "./extension.js",
   "contributes": {
     "themes": [
       {
@@ -34,8 +35,32 @@
         "uiTheme": "vs-dark",
         "path": "./themes/buzzokai-material-dimmed-color-theme.json"
       }
+    ],
+    "commands": [
+      {
+        "command": "buzzokai.mono",
+        "title": "Buzzokai Mono Dimmed"
+      },
+      {
+        "command": "buzzokai.reversed",
+        "title": "Buzzokai Reversed Dimmed"
+      },
+      {
+        "command": "buzzokai.github",
+        "title": "Buzzokai GitHub Dimmed"
+      },
+      {
+        "command": "buzzokai.material",
+        "title": "Buzzokai Material Dimmed"
+      }
     ]
   },
+  "activationEvents": [
+    "onCommand:buzzokai.mono",
+    "onCommand:buzzokai.reversed",
+    "onCommand:buzzokai.github",
+    "onCommand:buzzokai.material"
+  ],
   "keywords": [
     "buzzokai", "monokai", "material", "dimmed", "dark theme", 
     "eye comfort", "color", "theme", "color theme", "github", 

@@ -10,12 +10,30 @@
 - **Syntax Highlighting**: Carefully selected syntax highlighting that stands out on the dimmed background.
 - **Wide Language Support**: Whether you're writing JavaScript, Python, PHP, C++ or any other language, Buzzokai Dimmed has got you covered.
 - **Customizable**: Fork and tweak it to your liking. Contributions are welcome!
+- **Easy Switching**: Quickly switch between themes using the Command Palette.
 
 ## Installation
 
 1. Open your code editor's extension marketplace.
 2. Search for "Buzzokai Dimmed".
 3. Install the extension and set the theme that suits you the most as your default.
+
+## Switching Between Themes
+
+To easily switch between themes:
+
+1. Open the Command Palette (`Ctrl + Shift + P` or `Cmd + Shift + P` on Mac).
+2. Type `buzzokai` and you'll see a list of available themes.
+3. Choose the desired theme from the list.
+
+This makes it convenient to try out different themes and find the one that best suits your workspace.
+
+## Available Themes
+
+- **Buzzokai Mono Dimmed**
+- **Buzzokai Reversed Dimmed**
+- **Buzzokai GitHub Dimmed**
+- **Buzzokai Material Dimmed**
 
 ## Feedback
 
