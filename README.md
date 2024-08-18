@@ -79,17 +79,21 @@ Enjoy coding with a theme that's easy on the eyes - **Buzzokai Dimmed**.
 ## Buzzokai Mono Dimmed
 
 ![Buzzokai Mono Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/mono1.png)
+![Buzzokai Mono Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/mono2.png)
 
 ## Buzzokai Reversed Dimmed
 
 ![Buzzokai Reversed Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/reversed1.png)
+![Buzzokai Reversed Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/reversed2.png)
 
 ## Buzzokai GitHub Dimmed
 
 ![Buzzokai GitHub Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/github1.png)
+![Buzzokai GitHub Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/github2.png)
 
 ## Buzzokai Material Dimmed
 
 ![Buzzokai Material Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/material1.png)
+![Buzzokai Material Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/material2.png)
 
 
