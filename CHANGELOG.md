@@ -4,6 +4,7 @@
 
 1. Added easi switching functionality by introducing the command `buzzokai`
 2. Updated description
+3. Updated Screenshots
 
 ## [Version 1.0.6]
 
