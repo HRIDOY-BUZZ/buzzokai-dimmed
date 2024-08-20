@@ -86,8 +86,6 @@ This theme is released under the MIT License. See LICENSE for details.
 
 Enjoy coding with a theme that's easy on the eyes - **Buzzokai Dimmed**.
 
----
-
----
+##
 
 **Enjoy!**

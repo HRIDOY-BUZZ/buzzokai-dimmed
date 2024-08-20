@@ -3,7 +3,7 @@
   "displayName": "Buzzokai Dimmed",
   "description": "A collection of dimmed and eye-comforting VS Code color themes for better productivity. Easily switch between themes by typing 'buzzokai' in the Command Palette.",
   "publisher": "HRIDOY-BUZZ",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "icon": "logo.jpg",
   "license": "MIT",
   "engines": {

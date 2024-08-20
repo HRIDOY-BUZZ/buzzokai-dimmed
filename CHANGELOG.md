@@ -1,6 +1,6 @@
 # Change Log
 
-## [Version 1.2.2]
+## [Version 1.2.3]
 
 1. Updated Screenshots
 2. Updated description
