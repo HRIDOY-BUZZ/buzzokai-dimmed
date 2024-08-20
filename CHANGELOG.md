@@ -1,5 +1,10 @@
 # Change Log
 
+## [Version 1.2.2]
+
+1. Updated Screenshots
+2. Updated description
+
 ## [Version 1.2.0]
 
 1. Added easi switching functionality by introducing the command `buzzokai`
@@ -23,11 +28,6 @@
 2. Updated font styling
 3. Updated description
 4. Added Screenshots to the description
-
-## [Version 0.8.0]
-
-1. Optimized colors for better Eye comfort
-2. Updated logo
 
 
 ## Note:
