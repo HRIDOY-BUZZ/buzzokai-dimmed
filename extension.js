@@ -1,28 +1,10 @@
 const vscode = require('vscode');
-
-function activate(context) {
-    let mono = vscode.commands.registerCommand('buzzokai.mono', function () {
-        vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Mono Dimmed', true);
-    });
-
-    let reversed = vscode.commands.registerCommand('buzzokai.reversed', function () {
-        vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Reversed Dimmed', true);
-    });
-
-    let github = vscode.commands.registerCommand('buzzokai.github', function () {
-        vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai GitHub Dimmed', true);
-    });
-
-    let material = vscode.commands.registerCommand('buzzokai.material', function () {
-        vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Material Dimmed', true);
-    });
-
-    context.subscriptions.push(mono, reversed, github, material);
+function a(c) {
+    let m = vscode.commands.registerCommand('buzzokai.mono', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Mono Dimmed', !0)),
+        r = vscode.commands.registerCommand('buzzokai.reversed', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Reversed Dimmed', !0)),
+        g = vscode.commands.registerCommand('buzzokai.github', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai GitHub Dimmed', !0)),
+        d = vscode.commands.registerCommand('buzzokai.material', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Material Dimmed', !0));
+    c.subscriptions.push(m, r, g, d);
 }
-
-function deactivate() { }
-
-module.exports = {
-    activate,
-    deactivate
-};
+function d() {}
+module.exports = {a,d};

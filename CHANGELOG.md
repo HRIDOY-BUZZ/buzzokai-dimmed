@@ -1,9 +1,15 @@
 # Change Log
 
-## [Version 1.2.3]
+## [Version 1.2.5]
+
+1. Updated JS code for commands
+
+## [Version 1.2.4]
 
 1. Updated Screenshots
 2. Updated description
+3. Support updated till version 1.75.1
+4. Updated command definitions
 
 ## [Version 1.2.0]
 
