@@ -1,9 +1,9 @@
 {
   "name": "buzzokai-dimmed",
   "displayName": "Buzzokai Dimmed",
-  "description": "A collection of dimmed and eye-comforting VS Code color themes for better productivity. Easily switch between themes by typing 'buzzokai' in the Command Palette.",
+  "description": "A collection of dark, dimmed and eye-comforting VS Code color themes for better productivity. Easily switch between themes by typing 'buzzokai' in the Command Palette.",
   "publisher": "HRIDOY-BUZZ",
-  "version": "1.2.5",
+  "version": "1.3.0",
   "icon": "logo.jpg",
   "license": "MIT",
   "engines": {
@@ -19,42 +19,42 @@
   "contributes": {
     "themes": [
       {
-        "label": "Buzzokai Mono Dimmed",
+        "label": "Buzzokai Mono Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/buzzokai-mono-dimmed-color-theme.json"
+        "path": "./themes/buzzokai-mono-dark-color-theme.json"
       },
       {
-        "label": "Buzzokai Reversed Dimmed",
+        "label": "Buzzokai Reversed Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/buzzokai-reversed-dimmed-color-theme.json"
+        "path": "./themes/buzzokai-reversed-dark-color-theme.json"
       },
       {
-        "label": "Buzzokai GitHub Dimmed",
+        "label": "Buzzokai GitHub Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/buzzokai-github-dimmed-color-theme.json"
+        "path": "./themes/buzzokai-github-dark-color-theme.json"
       },
       {
-        "label": "Buzzokai Material Dimmed",
+        "label": "Buzzokai Material Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/buzzokai-material-dimmed-color-theme.json"
+        "path": "./themes/buzzokai-material-dark-color-theme.json"
       }
     ],
     "commands": [
       {
         "command": "buzzokai.mono",
-        "title": "Buzzokai Mono Dimmed"
+        "title": "Buzzokai Mono Dark"
       },
       {
         "command": "buzzokai.reversed",
-        "title": "Buzzokai Reversed Dimmed"
+        "title": "Buzzokai Reversed Dark"
       },
       {
         "command": "buzzokai.github",
-        "title": "Buzzokai GitHub Dimmed"
+        "title": "Buzzokai GitHub Dark"
       },
       {
         "command": "buzzokai.material",
-        "title": "Buzzokai Material Dimmed"
+        "title": "Buzzokai Material Dark"
       }
     ]
   },

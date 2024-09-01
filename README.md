@@ -4,21 +4,21 @@
 
 # Screenshots
 
-## Buzzokai Mono Dimmed
+## Buzzokai Mono Dark
 
-![Buzzokai Mono Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/1.mono.png)
+![Buzzokai Mono Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/1.mono.png)
 
-## Buzzokai Reversed Dimmed
+## Buzzokai Reversed Dark
 
-![Buzzokai Reversed Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/2.reversed.png)
+![Buzzokai Reversed Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/2.reversed.png)
 
-## Buzzokai GitHub Dimmed
+## Buzzokai GitHub Dark
 
-![Buzzokai GitHub Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/3.github.png)
+![Buzzokai GitHub Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/3.github.png)
 
-## Buzzokai Material Dimmed
+## Buzzokai Material Dark
 
-![Buzzokai Material Dimmed](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/4.material.png)
+![Buzzokai Material Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/4.material.png)
 
 ## Features
 
@@ -46,10 +46,10 @@ This makes it convenient to try out different themes and find the one that best 
 
 ## Available Themes
 
-- **Buzzokai Mono Dimmed**
-- **Buzzokai Reversed Dimmed**
-- **Buzzokai GitHub Dimmed**
-- **Buzzokai Material Dimmed**
+- **Buzzokai Mono Dark**
+- **Buzzokai Reversed Dark**
+- **Buzzokai GitHub Dark**
+- **Buzzokai Material Dark**
 
 ## Feedback
 
