@@ -37,6 +37,16 @@
         "label": "Buzzokai Material Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/buzzokai-material-dark-color-theme.json"
+      },
+      {
+        "label": "Buzzokai Material Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/buzzokai-material-blue-color-theme.json"
+      },
+      {
+        "label": "Buzzokai Shopify Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/buzzokai-shopify-blue-color-theme.json"
       }
     ],
     "commands": [
@@ -55,6 +65,14 @@
       {
         "command": "buzzokai.material",
         "title": "Buzzokai Material Dark"
+      },
+      {
+        "command": "buzzokai.materialBlue",
+        "title": "Buzzokai Material Blue"
+      },
+      {
+        "command": "buzzokai.shopifyBlue",
+        "title": "Buzzokai Shopify Blue"
       }
     ]
   },
