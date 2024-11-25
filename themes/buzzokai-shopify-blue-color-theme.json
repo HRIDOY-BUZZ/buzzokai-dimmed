@@ -35,12 +35,20 @@
             "scope": "comment",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#D7D7DB"
+                "foreground": "#8b8b8b"
             }
         },
         {
             "name": "Constant",
             "scope": "constant",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#00f4b9"
+            }
+        },
+        {
+            "name": "Constant.numeric",
+            "scope": "constant.numeric",
             "settings": {
                 "fontStyle": "",
                 "foreground": "#60EA4E"
@@ -73,12 +81,21 @@
             "scope": [
                 "declaration.tag",
                 "meta.tag",
+            ],
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#ffffff"
+            }
+        },
+        {
+            "name": "Meta.tag.E",
+            "scope": [
 				"declaration.tag entity",
                 "meta.tag entity"
             ],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#CBE8CD"
+                "foreground": "#b0d8a3"
             }
         },
         {
@@ -163,7 +180,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#ffb454ff"
+                "foreground": "#f3f973"
             }
         },
         {
