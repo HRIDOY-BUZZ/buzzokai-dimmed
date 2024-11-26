@@ -47,6 +47,11 @@
         "label": "Buzzokai Shopify Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/buzzokai-shopify-blue-color-theme.json"
+      },
+      {
+        "label": "Buzzokai Shopify Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/buzzokai-shopify-Green-color-theme.json"
       }
     ],
     "commands": [
@@ -73,13 +78,17 @@
       {
         "command": "buzzokai.shopifyBlue",
         "title": "Buzzokai Shopify Blue"
+      },
+      {
+        "command": "buzzokai.shopifyGreen",
+        "title": "Buzzokai Shopify Green"
       }
     ]
   },
   "keywords": [
     "buzzokai", "monokai", "material", "dimmed", "dark theme", 
     "eye comfort", "color", "theme", "color theme", "github", 
-    "dark", "dim", "mono", "hridoy", "buzz", "hridoy-buzz"
+    "dark", "blue", "green", "dim", "mono", "hridoy", "buzz", "hridoy-buzz"
   ],
   "repository": {
     "type": "git",
