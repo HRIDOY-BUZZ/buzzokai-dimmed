@@ -51,7 +51,7 @@
             "scope": "constant.numeric",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#60EA4E"
+                "foreground": "#60EA4ECC"
             }
         },
         {
@@ -127,7 +127,7 @@
             "scope": "variable",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#E7F972"
+                "foreground": "#E7F972CC"
             }
         },
         {
