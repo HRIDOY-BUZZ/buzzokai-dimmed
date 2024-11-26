@@ -24,6 +24,11 @@
         "path": "./themes/buzzokai-mono-dark-color-theme.json"
       },
       {
+        "label": "Buzzokai Mono Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/buzzokai-mono-green-color-theme.json"
+      },
+      {
         "label": "Buzzokai Reversed Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/buzzokai-reversed-dark-color-theme.json"
@@ -58,6 +63,10 @@
       {
         "command": "buzzokai.mono",
         "title": "Buzzokai Mono Dark"
+      },
+      {
+        "command": "buzzokai.monoGreen",
+        "title": "Buzzokai Mono Green"
       },
       {
         "command": "buzzokai.reversed",
