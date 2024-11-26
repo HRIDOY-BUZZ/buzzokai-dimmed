@@ -47,9 +47,13 @@ This makes it convenient to try out different themes and find the one that best 
 ## Available Themes
 
 - **Buzzokai Mono Dark**
+- **Buzzokai Mono Green**
 - **Buzzokai Reversed Dark**
 - **Buzzokai GitHub Dark**
 - **Buzzokai Material Dark**
+- **Buzzokai Material Blue**
+- **Buzzokai Shopify Blue**
+- **Buzzokai Shopify Green**
 
 ## Feedback
 
