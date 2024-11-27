@@ -5,20 +5,28 @@
 # Screenshots
 
 ## Buzzokai Mono Dark
-
 ![Buzzokai Mono Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/1.mono.png)
 
-## Buzzokai Reversed Dark
+## Buzzokai Mono Green
+![Buzzokai Mono Green](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/2.monoGreen.jpg)
 
-![Buzzokai Reversed Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/2.reversed.png)
+## Buzzokai Reversed Dark
+![Buzzokai Reversed Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/3.reversed.png)
 
 ## Buzzokai GitHub Dark
-
-![Buzzokai GitHub Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/3.github.png)
+![Buzzokai GitHub Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/4.github.png)
 
 ## Buzzokai Material Dark
+![Buzzokai Material Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/5.material.png)
 
-![Buzzokai Material Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/4.material.png)
+## Buzzokai Material Blue
+![Buzzokai Material Blue](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/6.materialBlue.jpg)
+
+## Buzzokai Shopify Blue
+![Buzzokai Shopify Blue](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/7.ShopifyBlue.jpg)
+
+## Buzzokai Shopify Green
+![Buzzokai Shopify Green](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/8.ShopifyGreen.jpg)
 
 ## Features
 

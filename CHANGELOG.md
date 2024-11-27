@@ -1,13 +1,14 @@
 # Change Log
 
-## [Version 2.0.1]
+## [Version 2.0.2]
 
 1. New theme Material Blue added.
 2. New theme Mono Green added.
 3. New theme Shopify Blue added.
 4. New theme Shopify Green addded.
 5. Buzzokai command bug fixed.
-6. Updated descriptions.
+6. Updated and optimized color patterns.
+7. Updated descriptions.
 
 
 ## [Version 1.2.5]
