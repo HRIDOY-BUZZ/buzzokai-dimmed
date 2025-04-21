@@ -1,5 +1,10 @@
 # Change Log
 
+## [Version 2.2.0]
+
+1. Updated Themes
+2. Fix: Command issue fix
+
 ## [Version 2.0.2]
 
 1. New theme Material Blue added.

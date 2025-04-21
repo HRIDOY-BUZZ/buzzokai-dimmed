@@ -49,14 +49,14 @@
         "path": "./themes/buzzokai-material-blue-color-theme.json"
       },
       {
-        "label": "Buzzokai Shopify Blue",
+        "label": "Buzzokai Liquid Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/buzzokai-shopify-blue-color-theme.json"
+        "path": "./themes/buzzokai-liquid-blue-color-theme.json"
       },
       {
-        "label": "Buzzokai Shopify Green",
+        "label": "Buzzokai Hydrogen Green",
         "uiTheme": "vs-dark",
-        "path": "./themes/buzzokai-shopify-Green-color-theme.json"
+        "path": "./themes/buzzokai-hydrogen-green-color-theme.json"
       }
     ],
     "commands": [
@@ -85,19 +85,39 @@
         "title": "Buzzokai Material Blue"
       },
       {
-        "command": "buzzokai.shopifyBlue",
-        "title": "Buzzokai Shopify Blue"
+        "command": "buzzokai.liquidBlue",
+        "title": "Buzzokai Liquid Blue"
       },
       {
-        "command": "buzzokai.shopifyGreen",
-        "title": "Buzzokai Shopify Green"
+        "command": "buzzokai.hydrogenGreen",
+        "title": "Buzzokai Hydrogen Green"
       }
     ]
   },
   "keywords": [
-    "buzzokai", "monokai", "material", "dimmed", "dark theme", "eye comfort", 
-    "color", "theme", "color theme", "github", "dark", "blue", "green", "forest", 
-    "midnight", "shopify", "dim", "mono", "hridoy", "buzz", "hridoy-buzz"
+    "buzzokai",
+    "monokai",
+    "material",
+    "dimmed",
+    "dark theme",
+    "eye comfort",
+    "color",
+    "theme",
+    "color theme",
+    "github",
+    "dark",
+    "blue",
+    "green",
+    "forest",
+    "midnight",
+    "shopify",
+    "liquid",
+    "hydrogen",
+    "dim",
+    "mono",
+    "hridoy",
+    "buzz",
+    "hridoy-buzz"
   ],
   "repository": {
     "type": "git",

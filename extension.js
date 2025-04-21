@@ -6,9 +6,9 @@ function activate(context) {
         github = vscode.commands.registerCommand('buzzokai.github', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai GitHub Dark', true)),
         material = vscode.commands.registerCommand('buzzokai.material', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Material Dark', true)),
         materialBlue = vscode.commands.registerCommand('buzzokai.materialBlue', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Material Blue', true)),
-        shopifyBlue = vscode.commands.registerCommand('buzzokai.shopifyBlue', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Shopify Blue', true)),
-        shopifyGreen = vscode.commands.registerCommand('buzzokai.shopifyGreen', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Shopify Green', true));
-    context.subscriptions.push(mono, monoGreen, reversed, github, material, materialBlue, shopifyBlue, shopifyGreen);
+        liquidBlue = vscode.commands.registerCommand('buzzokai.liquidBlue', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Liquid Blue', true)),
+        hydrogenGreen = vscode.commands.registerCommand('buzzokai.hydrogenGreen', () => vscode.workspace.getConfiguration().update('workbench.colorTheme', 'Buzzokai Hydrogen Green', true));
+    context.subscriptions.push(mono, monoGreen, reversed, github, material, materialBlue, liquidBlue, hydrogenGreen);
 }
 function deactivate() {}
 module.exports = {activate,deactivate};
