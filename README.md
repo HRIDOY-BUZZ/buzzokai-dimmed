@@ -1,103 +1,90 @@
-# Buzzokai Dimmed
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/logo.jpg" alt="Buzzokai Dimmed logo" width="88" height="88">
+</p>
 
-**Buzzokai Dimmed** is a dark color theme for code editors that brings a dimmer but still vibrant versions of the classic and popular color themes. It's a fork of multiple themes, including the default "Monokai", "Material", "Github", "Dark Modern", etc. tailored to reduce eye strain during long coding sessions.
+<h1 align="center">Buzzokai Dimmed</h1>
 
-# Screenshots
+<p align="center"><strong>A darker canvas. Eight distinct palettes.</strong></p>
 
-## Buzzokai Mono Dark
-![Buzzokai Mono Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/1.mono.png)
+<p align="center">
+  Familiar syntax colors, dimmed backgrounds, and a palette for your kind of dark.
+</p>
 
-## Buzzokai Mono Green
-![Buzzokai Mono Green](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/2.monoGreen.jpg)
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed"><strong>Get the extension</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#find-your-palette">Explore the themes</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/blob/master/CHANGELOG.md">What's new</a>
+</p>
 
-## Buzzokai Reversed Dark
-![Buzzokai Reversed Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/3.reversed.png)
+---
 
-## Buzzokai GitHub Dark
-![Buzzokai GitHub Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/4.github.png)
+## Make yourself at home
 
-## Buzzokai Material Dark
-![Buzzokai Material Dark](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/5.material.png)
+Go neutral with **Mono Dark**, add a cool tint with **Liquid Blue**, or bring a little green to your workspace with **Hydrogen Green**. Buzzokai Dimmed brings together eight dark themes with TextMate syntax colors and semantic highlighting support.
 
-## Buzzokai Material Blue
-![Buzzokai Material Blue](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/6.materialBlue.jpg)
+- **Eight palettes, one extension.** Switch between neutral, blue, and green backgrounds without installing separate themes.
+- **Desktop and browser support.** Use the themes in VS Code on your desktop or in its browser extension host.
+- **Works in Restricted Mode.** Choose a theme without granting workspace trust.
+- **Settings that respect your workspace.** Theme commands update an existing workspace theme setting; otherwise, they update your user default.
 
-## Buzzokai Liquid Blue
-![Buzzokai Liquid Blue](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/7.ShopifyBlue.jpg)
+## Get started
 
-## Buzzokai Hydrogen Green
-![Buzzokai Hydrogen Green](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/8.ShopifyGreen.jpg)
+1. Open **Extensions** in VS Code and search for **Buzzokai Dimmed**, or visit the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed).
+2. Install the extension by **HRIDOY-BUZZ**.
+3. Open the **Command Palette**, type `Buzzokai`, and select a theme.
 
-## Features
+| Windows / Linux | macOS |
+| --- | --- |
+| `Ctrl` + `Shift` + `P` | `Cmd` + `Shift` + `P` |
 
-- **Dimmed color Palettes**: Enjoy the most popular color palettes with a darker twist for a more comfortable coding experience.
-- **Syntax Highlighting**: Carefully selected syntax highlighting that stands out on the dimmed background.
-- **Wide Language Support**: Whether you're writing JavaScript, Python, PHP, C++ or any other language, Buzzokai Dimmed has got you covered.
-- **Customizable**: Fork and tweak it to your liking. Contributions are welcome!
-- **Easy Switching**: Quickly switch between themes using the Command Palette.
+You can also use **Preferences: Color Theme** to preview the palettes before choosing one.
 
-## Installation
+## Find your palette
 
-1. Open your code editor's extension marketplace.
-2. Search for "Buzzokai Dimmed".
-3. Install the extension and set the theme that suits you the most as your default.
+Eight ways to make the editor yours. Each preview shows a theme from the collection.
 
-## Switching Between Themes
+| **Buzzokai Mono Dark** | **Buzzokai Mono Green** |
+| --- | --- |
+| A neutral dark canvas with a vibrant syntax palette. | The Mono palette with green-tinted surfaces. |
+| ![Buzzokai Mono Dark preview](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/1.mono.png) | ![Buzzokai Mono Green preview](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/2.monoGreen.jpg) |
 
-To easily switch between themes:
+| **Buzzokai Reversed Dark** | **Buzzokai GitHub Dark** |
+| --- | --- |
+| Familiar dark-editor colors with a different take on syntax. | GitHub-inspired syntax on a neutral dark background. |
+| ![Buzzokai Reversed Dark preview](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/3.reversed.png) | ![Buzzokai GitHub Dark preview](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/4.github.png) |
 
-1. Open the Command Palette (`Ctrl + Shift + P` or `Cmd + Shift + P` on Mac).
-2. Type `buzzokai` and you'll see a list of available themes.
-3. Choose the desired theme from the list.
+| **Buzzokai Material Dark** | **Buzzokai Material Blue** |
+| --- | --- |
+| A colorful Material-inspired palette on charcoal surfaces. | The Material syntax palette with a cool blue backdrop. |
+| ![Buzzokai Material Dark preview](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/5.material.png) | ![Buzzokai Material Blue preview](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/6.materialBlue.jpg) |
 
-This makes it convenient to try out different themes and find the one that best suits your workspace.
+| **Buzzokai Liquid Blue** | **Buzzokai Hydrogen Green** |
+| --- | --- |
+| Deep navy surfaces with bright syntax accents. | Dark green surfaces with a colorful syntax palette. |
+| ![Buzzokai Liquid Blue preview](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/7.ShopifyBlue.jpg) | ![Buzzokai Hydrogen Green preview](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/8.ShopifyGreen.jpg) |
 
-## Available Themes
+> **Coming from an older release?** Liquid Blue was previously named Shopify Blue, and Hydrogen Green was Shopify Green. After updating to the renamed themes, select the new name once. Update any theme-specific customizations that still use an old name. Existing command IDs remain available for custom keybindings.
 
-- **Buzzokai Mono Dark**
-- **Buzzokai Mono Green**
-- **Buzzokai Reversed Dark**
-- **Buzzokai GitHub Dark**
-- **Buzzokai Material Dark**
-- **Buzzokai Material Blue**
-- **Buzzokai Liquid Blue**
-- **Buzzokai Hydrogen Green**
+## A few things to know
 
-## Feedback
+**Your workspace, your choice.** When you use a Buzzokai command, an existing workspace theme override is updated while your user default stays intact. Without an override, the command changes your user theme and leaves workspace settings alone.
 
-We value your feedback and suggestions to improve this extension. For any issues or suggestions or other feedback, please visit my github issues and discussion page.
-[@Issues](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/issues)
-[@Discussions](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/discussions)
+**Syntax follows your tools.** TextMate grammars and language extensions determine which tokens receive colors. Semantic highlighting adds language-aware colors when your language extension supplies them.
 
-## Review and Ratings
+**Make it personal.** VS Code's `workbench.colorCustomizations` and `editor.tokenColorCustomizations` settings let you adjust UI and syntax colors without editing the extension.
 
-If you find this extension helpful, please consider leaving a review in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed). Your reviews help us reach more users and improve the extension.
+**Compatibility.** Requires VS Code **1.75.1 or newer in the 1.x series**. See the [changelog](CHANGELOG.md) for release details.
 
-### How to Leave a Review
+## Help shape the next release
 
-1. **Visit the Extension Page:** Go to the [VS Code Marketplace page](https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed) for this extension.
-2. **Sign In:** Make sure you are signed in. You can use your microsoft account to sign in.
-3. **Rate and Review:** Click on the "Review" tab, rate the extension, and leave a review.
+Found a color that feels out of place? Include the theme name, language, and a small code sample when [reporting an issue](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/issues). Screenshots are welcome.
 
-**THANK YOU**
+[Report a bug](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/issues) · [Start a discussion](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed/discussions) · [Contribute on GitHub](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed)
 
-## Contributing
+If Buzzokai has found a place in your setup, a [Marketplace review](https://marketplace.visualstudio.com/items?itemName=HRIDOY-BUZZ.buzzokai-dimmed) helps others discover it.
 
-If you'd like to contribute to the development of Buzzokai Dimmed, please fork the repository and submit a pull request with your changes.
+---
 
-[@Repository](https://github.com/HRIDOY-BUZZ/buzzokai-dimmed)
-
-## License
-
-This theme is released under the MIT License. See LICENSE for details.
-
-## Acknowledgments
-
-- Inspired by the existing popular VS Code themes.
-- A nod to the Modern themes for its modern take on the eye-soothing color pallate.
-
-Enjoy coding with a theme that's easy on the eyes - **Buzzokai Dimmed**.
-
-##
-
-**Enjoy!**
+Released under the [MIT License](LICENSE.md). This collection includes forks and adaptations of familiar themes, including Monokai, Material, GitHub, and VS Code's dark themes. Thanks to the theme authors and contributors whose work inspired Buzzokai.

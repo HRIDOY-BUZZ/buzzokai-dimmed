@@ -13,9 +13,12 @@
     "Themes"
   ],
   "main": "./extension.js",
-  "activationEvents": [
-    "onCommand:buzzokai.*"
-  ],
+  "browser": "./extension.js",
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    }
+  },
   "contributes": {
     "themes": [
       {
