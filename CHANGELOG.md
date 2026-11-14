@@ -1,5 +1,11 @@
 # Change Log
 
+## [Unreleased]
+
+- Renamed Shopify Green to Hydrogen Green and Shopify Blue to Liquid Blue.
+- Renamed the corresponding theme files and corrected the green theme contribution path for case-sensitive filesystems.
+- Kept the existing command IDs for compatibility with custom keybindings. Users with a saved old theme name should select the renamed theme once.
+
 ## [Version 2.0.2]
 
 1. New theme Material Blue added.

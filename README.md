@@ -22,11 +22,11 @@
 ## Buzzokai Material Blue
 ![Buzzokai Material Blue](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/6.materialBlue.jpg)
 
-## Buzzokai Shopify Blue
-![Buzzokai Shopify Blue](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/7.ShopifyBlue.jpg)
+## Buzzokai Liquid Blue
+![Buzzokai Liquid Blue](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/7.ShopifyBlue.jpg)
 
-## Buzzokai Shopify Green
-![Buzzokai Shopify Green](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/8.ShopifyGreen.jpg)
+## Buzzokai Hydrogen Green
+![Buzzokai Hydrogen Green](https://raw.githubusercontent.com/HRIDOY-BUZZ/buzzokai-dimmed/master/screenshots/8.ShopifyGreen.jpg)
 
 ## Features
 
@@ -60,8 +60,8 @@ This makes it convenient to try out different themes and find the one that best 
 - **Buzzokai GitHub Dark**
 - **Buzzokai Material Dark**
 - **Buzzokai Material Blue**
-- **Buzzokai Shopify Blue**
-- **Buzzokai Shopify Green**
+- **Buzzokai Liquid Blue**
+- **Buzzokai Hydrogen Green**
 
 ## Feedback
 
