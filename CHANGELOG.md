@@ -1,14 +1,13 @@
 # Change Log
 
-## [Unreleased]
+## [Version 2.1.0] — 2026-11-15
 
 - Theme commands now update an existing workspace theme override, or the user theme when no workspace override exists.
 - Removed the redundant wildcard command activation event; contributed commands activate automatically on supported VS Code versions.
 - Added browser extension support and declared support for untrusted workspaces (Restricted Mode).
 - Corrected the internal Mono Green and GitHub Dark theme names to match their public labels.
-- Renamed Shopify Green to Hydrogen Green and Shopify Blue to Liquid Blue.
-- Renamed the corresponding theme files and corrected the green theme contribution path for case-sensitive filesystems.
-- Kept the existing command IDs for compatibility with custom keybindings. Users with a saved old theme name should select the renamed theme once.
+- Renamed Shopify Green to Hydrogen Green and Shopify Blue to Liquid Blue. Kept the existing command IDs for compatibility with custom keybindings. Users with a saved old theme name should select the renamed theme once.
+- Refreshed the README with an eight-theme gallery and updated usage instructions.
 
 ## [Version 2.0.2]
 

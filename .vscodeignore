@@ -5,3 +5,6 @@ vsc-extension-quickstart.md
 screenshots/**
 *.vsix
 QA_REPORT.md
+COLOR_REVIEW.md
+color-review/**
+photothumb.db

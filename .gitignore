@@ -1,3 +1,5 @@
 *.vsix
 vsc-extension-quickstart.md
 /QA_REPORT.md
+/COLOR_REVIEW.md
+/color-review/
